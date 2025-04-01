@@ -1,6 +1,6 @@
 **EN-US**
 This program generates a random pedigree.
-HOW TO INTERPRET THE PHYSICAL GRAPH:
+HOW TO INTERPRET THE PEDIGREE:
    - Enter the two necessary pieces of information (number of generations and whether the tree will be recessive or dominant)
    - The first individual is random and marries another random individual. The number of "Filhos" is how many children the couple had
    - The individuals on the right are children, and those on the right are random individuals who married these children
